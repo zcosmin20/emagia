@@ -1,0 +1,20 @@
+{
+  "name": "zcosmin20/herogame",
+  "require": {
+    "php": ">=7.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^7.0"
+  },
+  "authors": [
+    {
+      "name": "Zota Cosmin",
+      "email": "zcosmin20@yahoo.com"
+    }
+  ],
+  "autoload": {
+    "classmap": [
+      "app"
+    ]
+  }
+}
